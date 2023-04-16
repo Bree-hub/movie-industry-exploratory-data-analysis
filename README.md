@@ -13,9 +13,13 @@ Microsoft has announced that they would like to get into the movie industry. The
 The data used for this project was compiled by Flatiron School, and it was pulled from the sources listed below. All tables were cleaned but not all were used in final analysis.
 
 Box Office Mojo: https://www.boxofficemojo.com/
+
 IMDB: https://www.imdb.com/
+
 Rotten Tomatoes: https://www.rottentomatoes.com/
+
 The Movie Database: https://www.themoviedb.org/
+
 The Numbers: https://www.the-numbers.com/
 
 In my analysis I explore and answer the following questions:
