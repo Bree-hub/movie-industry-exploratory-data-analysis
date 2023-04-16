@@ -83,6 +83,7 @@ A further analysis on the production team, when it comes to hiring the creative 
 Analysis of additional revenue streams e.g. merchandise. sequels and licencing.
 
 Notebook: https://github.com/Bree-hub/Phase-1-Project/blob/main/index_student.pdf
+
 Presentation: https://github.com/Bree-hub/Phase-1-Project/blob/main/presentation.pdf
 
 
