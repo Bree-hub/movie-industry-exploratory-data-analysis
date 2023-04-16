@@ -36,7 +36,7 @@ I first count the number of movies in each genre and plot those results on a bar
 
 Using the same groupby method, I select the average box office return for each genre. I use the median in this case as the mean is likely skewed by outliers. Outliers could either be movies with enormous profits or movies having negative profit.
 
-![Image Description](http://localhost:8888/view/images/MovieCountbyGenre.png)
+![](https://github.com/Bree-hub/Phase-1-Project/blob/main/MovieCountbyGenre.png)
 
 ![Image Description](http://localhost:8888/view/images/MedianboxofficebyGenre.png)
 
