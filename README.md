@@ -48,7 +48,7 @@ I first determine the months that see the most movie releases and then grouping 
 
 ![](https://github.com/Bree-hub/Phase-1-Project/blob/main/images/CountbyMonth.png)
 
-![](http://localhost:8888/view/images/profitandprofitmarginbymonth.png)
+![](https://github.com/Bree-hub/Phase-1-Project/blob/main/images/profitandprofitmarginbymonth.png)
 
 Conclusion: The months of May, June, July November and December top in terms of both median profit and profit mergin.
 
