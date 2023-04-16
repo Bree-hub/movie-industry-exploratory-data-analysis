@@ -38,7 +38,7 @@ Using the same groupby method, I select the average box office return for each g
 
 ![](https://github.com/Bree-hub/Phase-1-Project/blob/main/MovieCountbyGenre.png)
 
-![Image Description](http://localhost:8888/view/images/MedianboxofficebyGenre.png)
+![](https://github.com/Bree-hub/Phase-1-Project/blob/main/MedianboxofficebyGenre.png)
 
 Conclusion:Adventure, Action, Comedy, Drama, Sci-Fi and Animation have the highest box office returns and also drama, comedy, and Action dominate the quantity of movie genres produced
 
@@ -46,7 +46,7 @@ Conclusion:Adventure, Action, Comedy, Drama, Sci-Fi and Animation have the highe
 
 I first determine the months that see the most movie releases and then grouping by month, I select the Profit and Profit Margin columns so that we can see which months have the most financial success.
 
-![Image Description](http://localhost:8888/view/images/CountbyMonth.png)
+![Image Description](https://github.com/Bree-hub/Phase-1-Project/blob/main/images/CountbyMonth.png)
 
 ![Image Description](http://localhost:8888/view/images/profitandprofitmarginbymonth.png)
 
