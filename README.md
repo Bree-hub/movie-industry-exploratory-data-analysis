@@ -58,11 +58,11 @@ I first merge the tn.movie_budgets and bom.movie_gross data frames.
 
 By amount of movies made, Universal, Fox, and Warner Bros. are top 3 with over 100 movies made.
 
-![](https://github.com/Bree-hub/Phase-1-Project/blob/main/Top20StudiosbyMovies%20Produced.png)
+![](https://github.com/Bree-hub/Phase-1-Project/blob/main/images/top20studios%20by%20movies%20produced.png)
 
 Dreamworks, Buena Vista, Universal, Fox, Warner Bros, and Paramount have the highest net profit all over 1.5 billion
 
-![](https://github.com/Bree-hub/Phase-1-Project/blob/main/Top20Studiosbyprofit.png)
+![](https://github.com/Bree-hub/Phase-1-Project/blob/main/images/top20studiosby%20averageprofit.png)
 
 # Conclusion
 In the brief analysis above, we looked at who our top competitors would be based on the amount of movies made and the average net profit of each studio, we determined which the best time of year to bulk release movies, and finally looked at which genres have had the highest average net profit. There are many more factors involved in making movies that we could dive into, but this gives us answers to some foundational questions for creating a successful movie.
@@ -82,6 +82,8 @@ Conduct further analysis on how to allocate the production budget, minimizing it
 A further analysis on the production team, when it comes to hiring the creative team such as directors, photographers, cinematographers and script writers.
 Analysis of additional revenue streams e.g. merchandise. sequels and licencing.
 
+Notebook: https://github.com/Bree-hub/Phase-1-Project/blob/main/index_student.pdf
+Presentation: https://github.com/Bree-hub/Phase-1-Project/blob/main/presentation.pdf
 
 
 
