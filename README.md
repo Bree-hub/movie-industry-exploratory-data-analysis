@@ -36,9 +36,9 @@ I first count the number of movies in each genre and plot those results on a bar
 
 Using the same groupby method, I select the average box office return for each genre. I use the median in this case as the mean is likely skewed by outliers. Outliers could either be movies with enormous profits or movies having negative profit.
 
-![](https://github.com/Bree-hub/Phase-1-Project/blob/main/MovieCountbyGenre.png)
+![](https://github.com/Bree-hub/Phase-1-Project/blob/main/images/MovieCountbyGenre.png)
 
-![](https://github.com/Bree-hub/Phase-1-Project/blob/main/MedianboxofficebyGenre.png)
+![](https://github.com/Bree-hub/Phase-1-Project/blob/main/images/MedianboxofficebyGenre.png)
 
 Conclusion:Adventure, Action, Comedy, Drama, Sci-Fi and Animation have the highest box office returns and also drama, comedy, and Action dominate the quantity of movie genres produced
 
@@ -46,9 +46,9 @@ Conclusion:Adventure, Action, Comedy, Drama, Sci-Fi and Animation have the highe
 
 I first determine the months that see the most movie releases and then grouping by month, I select the Profit and Profit Margin columns so that we can see which months have the most financial success.
 
-![Image Description](https://github.com/Bree-hub/Phase-1-Project/blob/main/images/CountbyMonth.png)
+![](https://github.com/Bree-hub/Phase-1-Project/blob/main/images/CountbyMonth.png)
 
-![Image Description](http://localhost:8888/view/images/profitandprofitmarginbymonth.png)
+![](http://localhost:8888/view/images/profitandprofitmarginbymonth.png)
 
 Conclusion: The months of May, June, July November and December top in terms of both median profit and profit mergin.
 
@@ -58,11 +58,11 @@ I first merge the tn.movie_budgets and bom.movie_gross data frames.
 
 By amount of movies made, Universal, Fox, and Warner Bros. are top 3 with over 100 movies made.
 
-![Image Description](http://localhost:8888/view/images/Top20StudiosbyMovies%20Produced.png)
+![](https://github.com/Bree-hub/Phase-1-Project/blob/main/images/Top20StudiosbyMovies%20Produced.png)
 
 Dreamworks, Buena Vista, Universal, Fox, Warner Bros, and Paramount have the highest net profit all over 1.5 billion
 
-![Image Description](http://localhost:8888/view/images/Top20Studiosbyprofit.png)
+![](https://github.com/Bree-hub/Phase-1-Project/blob/main/images/Top20Studiosbyprofit.png)
 
 # Conclusion
 In the brief analysis above, we looked at who our top competitors would be based on the amount of movies made and the average net profit of each studio, we determined which the best time of year to bulk release movies, and finally looked at which genres have had the highest average net profit. There are many more factors involved in making movies that we could dive into, but this gives us answers to some foundational questions for creating a successful movie.
