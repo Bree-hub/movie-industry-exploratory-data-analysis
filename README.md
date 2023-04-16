@@ -80,7 +80,7 @@ As next steps, I would suggest the following:
 With the ever increaing inflation cost, conduct furrther analysis to adjust using Consumer Price Index
 Conduct further analysis on how to allocate the production budget, minimizing it but effectively. A more detailed financial analysis to say the least.
 A further analysis on the production team, when it comes to hiring the creative team such as directors, photographers, cinematographers and script writers.
-Analysis of additional revenue streamse e.g. merchandise. sequels and licencing.
+Analysis of additional revenue streams e.g. merchandise. sequels and licencing.
 
 
 
