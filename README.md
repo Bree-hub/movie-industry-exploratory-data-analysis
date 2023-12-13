@@ -6,7 +6,7 @@
 
 ## Project Overview
 
-Microsoft has announced that they would like to get into the movie industry. They will be creating a studio, however they have no knowledge of the movie industry. My goal is to analyzes movie data to determine the features and factors that contribute to the success of a movie. The step involved will be to import,clean and analyze movie data from a variety of sources so that I can provide recommendations to Microsoft that will allow them to be successful in the movie industry
+The project will involve analysis of  movie data to determine the features and factors that contribute to the success of a movie. The step involved will be to import,clean and analyze movie data from a variety of sources so that I can provide recommendations to Microsoft that will allow them to be successful in the movie industry
 
 ## Data
 
